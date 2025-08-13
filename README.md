@@ -1,15 +1,3 @@
-It looks like the README in your Git repository is formatted correctly in Markdown, but the repeated lines at the end:
-
-```
-# TTS---Text-to-Speech
-# TTS---Text-to-Speech
-# TTS---Text-to-Speech
-```
-
-are unnecessary and make it look messy. Those are probably remnants or copy-paste artifacts.
-
-Here’s a **cleaned-up version** you can use as `README.md` in your Git repo:
-
 ````markdown
 # Edge-TTS FastAPI Service
 
