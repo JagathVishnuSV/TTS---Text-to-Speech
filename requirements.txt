@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+google-cloud-texttospeech
+python-multipart   # only if you accept form uploads
+pydantic
